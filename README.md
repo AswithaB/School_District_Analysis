@@ -23,20 +23,20 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 The District Summary figures calculated in the analysis both before and after removing the 9th grade scores, use the total student count in the denominator.  This isn't quite right for a proper comparison because it is like 461 students getting all 0s and averaging that in.  This will cause the passing scores to go down overall.  
 
 The District Summary before the change looked like this:
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Dist_Sum_before.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/Dist_Sum_before.PNG)
   
 After the removal of THS 9th graders, the district summary looks like this:
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Dist_Sum_after.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/Dist_Sum_after.PNG)
  
 
 
 2.  SCHOOL SUMMARY - A summary of the results with the THS passing percentages calculated as a percent of the total students at the school show that at 66.9% passing math and 69.66 passing reading, shows the problem with the calculation of using the total students at the school as the denominator.
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school_before.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/Summary_by_school_before.PNG)
   
 However, after changing the denominator to exclude the 9th graders, the passing percents go up to 93.2% for math and 96.9% for passing reading as shown in the following chart:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
 
 A comparison for the % Passing results prior to removing the 9th grade scores versus after removing 9th grade using the proper denominator is shown below:
   
@@ -56,11 +56,11 @@ So there was a slight decrease in the passing percentage overall after removing 
 3.  THOMAS HIGH SCHOOL VERSUS OTHER SCHOOLS - Removing the ninth graders' math and reading scores for Thomas High School moved the school overall passing score from 90.95% to  90.63%.  This small decrease did not change the schools range based on overall score as compared to other schools.  They are still then 2nd highest scores. 
 
 Top Schools before removing 9th grade at THS:
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
   
 Top Schools after removing 9th grade at THS:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Rank%20by%20school.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/Rank%20by%20school.PNG)
 
 4. AFFECT ON MATH AND READING SCORES BY GRADE
 
@@ -68,19 +68,19 @@ There is no affect on the math and reading scores for any grade except the 9th g
 
 The reading scores by grade before the 9th grade scores are removed are as follows:
   
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20reading.PNG)
 
 The reading scores by grade after the 9th grade scores are removed are as follows:
   
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
 
 The math scores by grade before the 9th grade scores are removed are as follows:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20math.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20math.PNG)
 
 The math scores by grade after the 9th grade scores are removed are as follows:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
 
 5. AFFECT ON SCORES BY SCHOOL SPENDING
 
@@ -88,23 +88,23 @@ The effect on the statistics by school spending is so small, that the figures mu
 
 Results by Budget Bin before removing 9th grade scores:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/bofre%20spending.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/bofre%20spending.PNG)
 
 Results by Budget Bin after removing 9th grade scores:
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20budget.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20budget.PNG)
 
 
 6. AFFECT ON SCORES BY SCHOOL SIZE
 
 Likewise, there was no noticeable change in overall results based on school size:
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20size.PNG)
-![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20size.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20size.PNG)
+![]( https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20size.PNG)
   
 7. AFFECT ON SCORES BY SCHOOL TYPE
 These before and after exhibits would need to go out several decimals as well to show any difference.  
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20by%20district.PNG) 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20type.PNG) 
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20by%20district.PNG) 
+![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20type.PNG) 
 
 ## SUMMARY
 
