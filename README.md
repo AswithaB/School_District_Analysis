@@ -1,4 +1,4 @@
-# SCHOOL DISTRICT ANALYTICS PROJECT
+# SCHOOL DISTRICT ANALYSIS PROJECT
 ## Summary
 The purpose of this analysis is to demonstrate the effect that removing a case of academic dishonesty at Thomas High School (THS) has on the overall School District Analysis Results. The technical challenge is to use Python Pandas library in Jupyter Notebook to adjust the data to exclude the Thomas High School scores and recalculate the overall school district statistics.    
 ### Background
