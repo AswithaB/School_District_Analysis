@@ -36,7 +36,7 @@ After the removal of THS 9th graders, the district summary looks like this:
   
 However, after changing the denominator to exclude the 9th graders, the passing percents go up to 93.2% for math and 96.9% for passing reading as shown in the following chart:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/Summary_by_school-after.PNG)
 
 A comparison for the % Passing results prior to removing the 9th grade scores versus after removing 9th grade using the proper denominator is shown below:
   
@@ -56,11 +56,11 @@ So there was a slight decrease in the passing percentage overall after removing 
 3.  THOMAS HIGH SCHOOL VERSUS OTHER SCHOOLS - Removing the ninth graders' math and reading scores for Thomas High School moved the school overall passing score from 90.95% to  90.63%.  This small decrease did not change the schools range based on overall score as compared to other schools.  They are still then 2nd highest scores. 
 
 Top Schools before removing 9th grade at THS:
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/top%20schools%20before.PNG)
   
 Top Schools after removing 9th grade at THS:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/Rank%20by%20school.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/Rank%20by%20school.PNG)
 
 4. AFFECT ON MATH AND READING SCORES BY GRADE
 
