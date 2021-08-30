@@ -68,19 +68,20 @@ There is no affect on the math and reading scores for any grade except the 9th g
 
 The reading scores by grade before the 9th grade scores are removed are as follows:
   
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/befiore%20reading.PNG)
 
 The reading scores by grade after the 9th grade scores are removed are as follows:
   
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/after%20reading.PNG)
+
 
 The math scores by grade before the 9th grade scores are removed are as follows:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20math.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/before%20math.PNG)
 
 The math scores by grade after the 9th grade scores are removed are as follows:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/after%20reading.PNG)
 
 5. AFFECT ON SCORES BY SCHOOL SPENDING
 
@@ -88,23 +89,23 @@ The effect on the statistics by school spending is so small, that the figures mu
 
 Results by Budget Bin before removing 9th grade scores:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/bofre%20spending.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/bofre%20spending.PNG)
 
 Results by Budget Bin after removing 9th grade scores:
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20budget.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/after%20budget.PNG)
 
 
 6. AFFECT ON SCORES BY SCHOOL SIZE
 
 Likewise, there was no noticeable change in overall results based on school size:
 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20size.PNG)
-![]( https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20size.PNG)
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/before%20size.PNG)
+![]( https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/after%20size.PNG)
   
 7. AFFECT ON SCORES BY SCHOOL TYPE
 These before and after exhibits would need to go out several decimals as well to show any difference.  
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/before%20by%20district.PNG) 
-![](https://github.com/AswithaB/School_District_Analysis/blob/master/Resources/after%20type.PNG) 
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/before%20by%20district.PNG) 
+![](https://github.com/AswithaB/School_District_Analysis/blob/main/Resources/after%20type.PNG) 
 
 ## SUMMARY
 
